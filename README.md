@@ -3,6 +3,10 @@ Projeto da disciplina de Sistemas Operacionais — Java
 
 link do github - https://github.com/rxdrigocrn/sistemaDeArquivos
 
+Alunos:
+- Rodrigo Cirino
+- Erfon Spanos
+
 ## 📌 Metodologia
 
 O simulador foi desenvolvido em **Java**, utilizando uma arquitetura baseada em classes para representar arquivos, diretórios e o sistema de arquivos.  
