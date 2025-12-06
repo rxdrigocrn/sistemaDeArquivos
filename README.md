@@ -1,6 +1,8 @@
 # 📁 Simulador de Sistema de Arquivos com Journaling  
 Projeto da disciplina de Sistemas Operacionais — Java
 
+link do github - https://github.com/rxdrigocrn/sistemaDeArquivos
+
 ## 📌 Metodologia
 
 O simulador foi desenvolvido em **Java**, utilizando uma arquitetura baseada em classes para representar arquivos, diretórios e o sistema de arquivos.  
